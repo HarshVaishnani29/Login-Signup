@@ -11,7 +11,8 @@ A simple sign in and sign up template built with React and Material UI. With com
 
 ![Product Preview][product-preview]
 
-- [Demo](https://auth-mui-template.vercel.app/)
+- [Demo](login-signup-ssyq.vercel.app
+)
 
 ### Built With
 
@@ -44,17 +45,7 @@ _To get started with the project._
    ```sh
    npm start
    ```
-
-<!-- CONTACT -->
-
-## Contact
-
-Eric Ricky - [@ricky_erickk](https://twitter.com/ricky_erickk)
-
-Linked In - [Eric Otieno](linkedin.com/in/rick-otieno-7532b01b9)
-
-Project Link: [https://github.com/eric-ricky/sqaub-landing-page](https://github.com/eric-ricky/auth-mui-template)
-
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
